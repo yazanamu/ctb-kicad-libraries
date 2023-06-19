@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SQS850EN_T1_GE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SQS850EN-T1_GE3" (!) = "", "SQS850ENT1_GE3", "Other", "78-SQS850EN-T1_GE3", "https://www.mouser.com/Search/Refine.aspx?Keyword=78-SQS850EN-T1_GE3", "SQS850EN-T1_GE3", "https://www.arrow.com/en/products/sqs850en-t1-ge3/vishay", "N-Channel 60 V 12A (Tc) 33W (Tc) Surface Mount PowerPAK 1212-8", "https://www.vishay.com/docs/62855/sqs850en.pdf", "1.12 mm"
+END_PART
+
+END.

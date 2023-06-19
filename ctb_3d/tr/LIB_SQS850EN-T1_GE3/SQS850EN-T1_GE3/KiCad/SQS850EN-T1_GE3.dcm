@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQS850EN-T1_GE3
+D N-Channel 60 V 12A (Tc) 33W (Tc) Surface Mount PowerPAK 1212-8
+K
+F https://www.vishay.com/docs/62855/sqs850en.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SQS850EN-T1_GE3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-11-08:29:55)
+    (mountForm default
+        (footprintRef "SQS850ENT1_GE3")
+        (spec "System")
+    )
+)
