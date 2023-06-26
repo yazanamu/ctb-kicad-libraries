@@ -1,7 +1,7 @@
 (footprint "Hole_8mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 -9.4) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 32fbb37a-7c9c-4309-bda3-1286be42cd00)
   )

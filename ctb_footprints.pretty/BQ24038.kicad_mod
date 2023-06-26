@@ -116,7 +116,7 @@
     (zone_connect 2) (tstamp 94e3e231-c459-453c-808e-fa13c89edcb5))
   (pad "21" thru_hole circle (at 0.775 0.525) (size 0.5 0.5) (drill 0.25) (layers "*.Cu")
     (zone_connect 2) (tstamp aac26857-4049-4612-8d3a-65a769c6fce0))
-  (model "//device_team/device_hw/Tool/PCB_LIB/KICAD_LIB/ctb_kicad_lib/ctb_3d/IC/BQ24038_RHL0020A.stp"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/IC/BQ24038_RHL0020A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -116,9 +116,4 @@
     (stroke (width 0.05) (type solid)) (fill none) (layer "F.Fab") (tstamp 3eec233a-5ad7-4196-aae5-d1b5bd06b356))
   (pad "1" thru_hole circle (at -8.75 0 180) (size 3 3) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 56751dea-4bd5-4bad-b042-ed9f4a35f782))
   (pad "1" thru_hole circle (at 8.75 0) (size 3 3) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 9603a5fb-7244-43de-8b2d-0cf6ceb96f09))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

@@ -47,7 +47,7 @@
   (pad "4" thru_hole oval (at 0 1.25) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f2865f74-a2ad-45f3-a145-c3f16dc36859))
   (pad "5" thru_hole oval (at 0 3.75) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b6cf8aaf-28ec-4057-a949-e7e41d98fe88))
   (pad "6" thru_hole oval (at 0 6.25) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 38f7ac7f-bb49-48eb-abf3-c4b63008c967))
-  (model "//device_team/device_hw/Tool/PCB_LIB/KICAD_LIB/ctb_kicad_lib/ctb_3d/conn/smw250-02_p2-5_l7-4_w5-8_h7.stp"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/conn/smw250-06_p2-5_l17-4_w5-8_h7.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

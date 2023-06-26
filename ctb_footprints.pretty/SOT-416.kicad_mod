@@ -44,7 +44,7 @@
   (pad "1" smd rect (at -0.65 -0.5) (size 0.6 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20b7e4a5-bd1f-42e7-adc2-e7d64321cc31))
   (pad "2" smd rect (at -0.65 0.5) (size 0.6 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ed8380dd-2b9e-41ce-a8cc-33c7c5ebd110))
   (pad "3" smd rect (at 0.65 0) (size 0.6 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cfbd026d-75e4-48b2-863d-99ea2eedcafd))
-  (model "//device_team/device_hw/Tool/PCB_LIB/KICAD_LIB/ctb_kicad_lib/ctb_3d/IC/User Library-SOT-416.STEP"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/IC/User Library-SOT-416.STEP"
     (offset (xyz 0 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))

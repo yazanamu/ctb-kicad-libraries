@@ -72,7 +72,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp fa864aac-715d-40ea-94dc-301e12087bdf))
-  (model "${KICAD7_3RD_PARTY}/tr/SQS850EN-T1_GE3.stp"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/tr/SQS850EN-T1_GE3.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

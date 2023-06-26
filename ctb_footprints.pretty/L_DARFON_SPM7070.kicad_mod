@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp f3d1bf0e-9608-4f5e-b454-7a04040c372f))
   (pad "1" smd rect (at -2.55 0) (size 2.7 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp deadf372-ecd0-43b4-bf24-dc805e9ba381))
   (pad "2" smd rect (at 2.55 0) (size 2.7 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b7c725d-2117-42b5-aea7-b9508761378c))
-  (model "${KICAD7_3RD_PARTY}/inductor/User Library-PCC-M0754M.step"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/inductor/User Library-PCC-M0754M.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

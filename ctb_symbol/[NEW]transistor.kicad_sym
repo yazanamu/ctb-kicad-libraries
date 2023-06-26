@@ -271,7 +271,7 @@
     (property "Value" "KRX207U" (at 8.255 -1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "CTB_Library:US6" (at -4.572 -0.889 0)
+    (property "Footprint" "ctb_footprints:US6" (at -4.572 -0.889 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (at -4.572 -0.889 0)

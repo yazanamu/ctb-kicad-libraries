@@ -39,7 +39,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ca37e891-0cf6-4bc1-b6c7-d1a968ef2b14))
   (pad "1" smd roundrect (at -0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2672dea0-17e0-4ef6-b8fc-0c6bbed59bed))
   (pad "2" smd roundrect (at 0.485 0) (size 0.59 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 780dc7a4-7a9a-4595-b642-26cfcece8144))
-  (model "//device_team/device_hw/Tool/PCB_LIB/KICAD_LIB/ctb_kicad_lib/ctb_3d/diode/D_0402_1005Metric.step"
+  (model "${KICAD7_3RD_PARTY}/ctb-kicad-libraries/ctb_3d/diode/D_0402_1005Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
